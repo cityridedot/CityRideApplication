@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "750348500959",
+    "firebase_url": "https://city-bus-application-5cb3b-default-rtdb.firebaseio.com",
+    "project_id": "city-bus-application-5cb3b",
+    "storage_bucket": "city-bus-application-5cb3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750348500959:android:40a656ce0333e1df1a4e6a",
+        "android_client_info": {
+          "package_name": "com.example.listviewdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750348500959-05a3dn8orfvf7o9flkk9osg1jid7hcc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbMtyobENP2i5_Lk-dfk7pL9Te5e3XrKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750348500959-05a3dn8orfvf7o9flkk9osg1jid7hcc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750348500959:android:5c15833d986af2641a4e6a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750348500959-05a3dn8orfvf7o9flkk9osg1jid7hcc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbMtyobENP2i5_Lk-dfk7pL9Te5e3XrKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750348500959-05a3dn8orfvf7o9flkk9osg1jid7hcc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

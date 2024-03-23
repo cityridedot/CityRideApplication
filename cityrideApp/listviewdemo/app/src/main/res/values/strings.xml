@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">City Ride</string>
+    <string name="submit">Search</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="city_bus_app">City Ride</string>
+    <string name="kolhapur_municipal_transport">Kolhapur Municipal Transport</string>
+    <string name="eta">ETA :</string>
+    <string name="time">Time</string>
+    <string name="todo">TODO</string>
+    <string name="destination">Destination</string>
+    <string name="source">Source</string>
+    <string name="go_to_map">Go to Map</string>
+    <string name="textviewst" />
+    <string name="textviewend" />
+    <string name="aboutus">WELCOME TO CITY RIDE ANDROID APPLICATION</string>
+    <string name="members">1. Lokhande Shubham Kiran.\n2. Kumbhar Rutvik Ashok.\n3. Jadhav Manthan Sharad.\n4. Methe Shubham Laxman.</string>
+    <string name="guide">Mrs. Amrita A. Manjrekar.</string>
+    <string name="clgnm">Department of Technology,\nShivaji University,\nKolhapur</string>
+    <string name="address">Department of Technology,\nShivaji University,\nVidyanagar,\nKolhapur-416004.\nMAHARASHTRA. INDIA.</string>
+    <string name="email">shubhamlokhande21@gmail.com\nrutvikkumbhar48@gmail.com\nmanthan1@gmail.com\nmetheshubham2@gmail.com</string>
+    <string name="mobno">9404482147\n9153281361\n7972284602\n8329168736</string>
+</resources>

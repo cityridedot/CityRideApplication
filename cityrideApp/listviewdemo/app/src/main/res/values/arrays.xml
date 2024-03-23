@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>Kalmba </item>
+        <item>kalmba jail</item>
+        <item>vikaswadi Fata</item>
+        <item>Mirajkar Tikati</item>
+        <item>Mauli Chowk</item>
+    </string-array>
+    <string-array name="languages2">
+        <item>Kagal St Stand</item>
+        <item>kaneriwadi</item>
+        <item>Kaneri Math Fata</item>
+        <item>Shahu Jakat Naka</item>
+        <item>Shivaji vidhyapith</item>
+    </string-array>
+
+</resources>
